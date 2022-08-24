@@ -3,5 +3,7 @@
     <pages>
         <page name='YourNameIsMyName'/>
         <page name='WalkOnAxis'/>
+        <page name='MergeKLists'/>
+        <page name='MedianTwoArrays'/>
     </pages>
 </playground>
